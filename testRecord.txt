@@ -1,0 +1,25 @@
+visitVarInsn: 21 3 -> visitVarInsn: 54 4
+visitVarInsn: 54 4 -> visitVarInsn: 21 2
+visitVarInsn: 21 2 -> visitVarInsn: 21 3
+visitVarInsn: 21 3 -> visitVarInsn: 21 1
+visitVarInsn: 21 1 -> visitVarInsn: 21 2
+visitVarInsn: 21 2 -> visitVarInsn: 21 2
+visitVarInsn: 21 2 -> visitVarInsn: 54 4
+visitLabel:L142666848 -> visitFrame: 1 1 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65
+visitFrame: 1 1 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65 -> visitVarInsn: 21 1
+visitVarInsn: 21 1 -> visitVarInsn: 21 3
+visitVarInsn: 21 3 -> visitVarInsn: 21 1
+visitVarInsn: 21 1 -> visitVarInsn: 54 4
+visitLabel:L2054798982 -> visitFrame: 3 0 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65
+visitFrame: 3 0 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65 -> visitVarInsn: 21 1
+visitVarInsn: 21 1 -> visitVarInsn: 21 2
+visitVarInsn: 21 2 -> visitVarInsn: 21 2
+visitVarInsn: 21 2 -> visitVarInsn: 54 4
+visitLabel:L1504109395 -> visitFrame: 3 0 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65
+visitFrame: 3 0 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65 -> visitVarInsn: 21 1
+visitVarInsn: 21 1 -> visitVarInsn: 21 3
+visitVarInsn: 21 3 -> visitVarInsn: 21 1
+visitVarInsn: 21 1 -> visitVarInsn: 54 4
+visitLabel:L920011586 -> visitFrame: 3 0 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65
+visitFrame: 3 0 [Ljava.lang.Object;@39ba5a14 0 [Ljava.lang.Object;@511baa65 -> visitVarInsn: 21 4
+visitVarInsn: 21 4 -> visitFieldInsn: 172
